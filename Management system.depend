@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1651514021 source:g:\study\c\management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+	<ctype.h>
+	<string.h>
+
